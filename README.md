@@ -1,3 +1,5 @@
+![](https://d33wubrfki0l68.cloudfront.net/8b2cd40c776adc78a6b6f0a35e3ac53569d9b6ab/6e000/assets/octocat-primed.png)
+
 # 🙋‍♀️ _Hi, friend! Pleased to meet you._ 
 
 Chances are, I've either directed you here, or you've been spelunking through my [website, open-source projects, and talks](https://paigevie.ws): in which case, welcome! Take a look around, read through my principles (listed below 👇), and [let me know if you have any questions](mailto:paige.bailey@microsoft.com). Looking forward to working with you!
