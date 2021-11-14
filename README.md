@@ -84,3 +84,17 @@ Am so impressed by the level of care and effort each [@docsmsft](https://docs.mi
 [This year](https://twitter.com/DynamicWebPaige/status/984584446316703746) was the first time I'd ever heard the phrase "_PhD or GTFO_", and I don't believe I've ever been more nauseated. Acronyms don't equate to worth, or industriousness, or character. Have met many brilliant folks without a degree; and PhD's without creativity, empathy, or work ethic. I'll choose the former, every time.
 
 ![](https://github.com/dynamicwebpaige/info/blob/master/23926211_10155941132466672_7816746537214097786_o.jpg?raw=true)
+
+*******************
+
+### 💬 Miscellany
+
+#### Visitors (since 14 November 2021)
+
+![Counter](https://count.getloli.com/get/@dynamicwebpaige?theme=rule23)
+
+#### Statistical data
+
+![`dynamicwebpaige`'s GitHub stats](https://github-readme-stats.vercel.app/api?username=dynamicwebpaige&theme=cobalt&hide_title=true&show_icons=true&include_all_commits=true&count_private=true)
+
+![`dynamicwebpaige@`'s top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dynamicwebpaige&theme=cobalt&hide_title=true&layout=compact&langs_count=10&hide=html,javascript,css)
