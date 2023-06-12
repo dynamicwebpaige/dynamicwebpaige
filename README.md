@@ -34,7 +34,7 @@ I am currently based in beautiful **Palo Alto, CA**, near Stanford - and have ma
 
 Previously, I've lived in:
 
-* 🌲 [Seattle, WA](https://goo.gl/maps/HAaN8MhsfYS9wisA8](https://goo.gl/maps/VYUFfRWHSZPZi5DJ9)
+* 🌲 [Seattle, WA](https://goo.gl/maps/VYUFfRWHSZPZi5DJ9)
 * 🤠 [Itasca, TX](https://goo.gl/maps/76qUXHeyBcs)
 * 🎓 [Houston, TX](https://goo.gl/maps/TXgq2ZAVsmP2)
 * 🌌 [Boulder, CO](https://goo.gl/maps/adPT6ZSwCRT2)
