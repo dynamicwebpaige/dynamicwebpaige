@@ -2,7 +2,7 @@
 
 # 🙋‍♀️ _Hi, friend! Pleased to meet you._ 
 
-Chances are, I've either directed you here, or you've been spelunking through my [website, open-source projects, and talks](https://paigevie.ws): in which case, welcome! Take a look around, read through my principles (listed below 👇), and [let me know if you have any questions](mailto:paige.bailey@microsoft.com). Looking forward to working with you!
+Chances are, I've either directed you here, or you've been spelunking through my [website, open-source projects, and talks](https://thinking-in-data.com): in which case, welcome! Take a look around, read through my principles (listed below 👇), and [let me know if you have any questions](mailto:webpaige@google.com). Looking forward to working with you!
 
 *******
 
@@ -10,7 +10,7 @@ Chances are, I've either directed you here, or you've been spelunking through my
 
 ### ⌚ Hours
 
-* I prefer to _work from home_, but love serendipitous hallway conversations + getting to know my coworkers. My ideal work week would have _3 - 4 days in the office_, and _1 - 2 days working from home_, or from a coworking space.
+* I prefer to _work from the office_, and love serendipitous hallway conversations + getting to know my coworkers. My ideal work week would have _3 - 4 days in the office_, and _1 - 2 days working from home_, or from a coworking space.
 
 * Speaking of coworking spaces: **let me know** if you'd like to explore a new one, or if you have recommendations! I will spend at least a couple hours in one in each city I travel to. Some favorites:
 
@@ -30,11 +30,11 @@ This list is continuously evolving, so keep checking back!
 
 ### 🗺 Location
 
-I am currently based in beautiful **Seattle, WA**, in Capitol Hill - and have mapped every coffee shop within a two mile radius. Let me know if you're in the area, and [let's caffeinate](https://calendly.com/paigebailey)! ☕
+I am currently based in beautiful **Palo Alto, CA**, near Stanford - and have mapped every coffee shop within a two mile radius. Let me know if you're in the area, and [let's caffeinate](https://calendly.com/paigebailey)! ☕
 
 Previously, I've lived in:
 
-* 🌲 [Palo Alto, CA](https://goo.gl/maps/HAaN8MhsfYS9wisA8)
+* 🌲 [Seattle, WA](https://goo.gl/maps/HAaN8MhsfYS9wisA8](https://goo.gl/maps/VYUFfRWHSZPZi5DJ9)
 * 🤠 [Itasca, TX](https://goo.gl/maps/76qUXHeyBcs)
 * 🎓 [Houston, TX](https://goo.gl/maps/TXgq2ZAVsmP2)
 * 🌌 [Boulder, CO](https://goo.gl/maps/adPT6ZSwCRT2)
